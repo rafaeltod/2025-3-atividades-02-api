@@ -1,7 +1,7 @@
 # Exemplos Práticos e Recursos Adicionais
 
 ## Exemplos de Requisições HTTP
-
+GET http://localhost:3000/
 ### 1. Testando com cURL
 
 #### Criar uma nova tarefa
